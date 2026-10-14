@@ -1,0 +1,131 @@
+(footprint "RESMELF3515"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "MELF, 3.50 mm length, 1.52 mm diameter\n\nMELF Resistor package with 3.50 mm length and 1.52 mm diameter")
+	(property "Reference" "REF**"
+		(at 0 -2.54 0)
+		(layer "F.SilkS")
+		(uuid "fa16e381-ba5d-4b41-984c-831ec84c0417")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "RESMELF3515"
+		(at 0 2.54 0)
+		(layer "F.Fab")
+		(uuid "8825ee78-8697-47ee-8b33-15f8e3dab3e4")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "574a395c-6fba-4e6b-a6bf-e9862050fbb8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5259ebee-7cf7-47a0-b840-f673e5685061")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.105 1.1825)
+		(end 1.105 1.1825)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e393f7ec-3b1c-4800-99a5-e104b9889d73")
+	)
+	(fp_line
+		(start 1.105 -1.1825)
+		(end -1.105 -1.1825)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dbb3f5c9-499f-416c-8e7e-e86f2caa48b8")
+	)
+	(fp_line
+		(start -1.85 -0.8)
+		(end 1.85 -0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "00c758ce-a636-438d-aac5-27f3313dd078")
+	)
+	(fp_line
+		(start -1.85 0.8)
+		(end -1.85 -0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7148a339-a57e-4935-a61b-1e5f7510fdac")
+	)
+	(fp_line
+		(start 1.85 -0.8)
+		(end 1.85 0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4bc46461-07bc-4a47-bf8b-32f7d73f53f9")
+	)
+	(fp_line
+		(start 1.85 0.8)
+		(end -1.85 0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "358c7551-b3e3-4919-8699-221742e93066")
+	)
+	(pad "1" smd rect
+		(at -1.6813 0)
+		(size 1.1527 1.7371)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "15573bbe-1fe5-491e-8026-c4e018b855da")
+	)
+	(pad "2" smd rect
+		(at 1.6813 0)
+		(size 1.1527 1.7371)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "bb33735a-7a43-468e-ba0e-e075a66d1bc1")
+	)
+	(embedded_fonts no)
+)

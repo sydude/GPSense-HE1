@@ -1,0 +1,95 @@
+(footprint "CAPRD550W60D1025H1250B"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Radial Non-Polarized Capacitor, 5.50 mm pitch, 10.25 mm body diameter, 12.50 mm body height\n\nRadial Non-Polarized Capacitor package with 5.50 mm pitch (lead spacing), 0.60 mm lead diameter, 10.25 mm body diameter and 12.50 mm body height")
+	(property "Reference" "REF**"
+		(at 0 -6.35 0)
+		(layer "F.SilkS")
+		(uuid "fbe5aee4-361d-4988-b539-d52a45f2500e")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "CAPRD550W60D1025H1250B"
+		(at 0 6.35 0)
+		(layer "F.Fab")
+		(uuid "c3903023-a56d-4b08-aee9-d852b5fb7378")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49a54990-1172-4058-8f92-bc0419189814")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca02a81c-7e0f-4531-be59-e002ce9090ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 5.25 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7dd67435-65a7-4747-9b02-a6783799d3ed")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 5.25 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1caf85ef-c8d8-4e03-8fef-6ea5e5ede27e")
+	)
+	(pad "1" thru_hole circle
+		(at -2.75 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "30e35760-d2e2-422e-87b6-5f2e2b130045")
+	)
+	(pad "2" thru_hole circle
+		(at 2.75 0)
+		(size 1.4 1.4)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "f4265447-224f-4d19-a226-325543ab7adc")
+	)
+	(embedded_fonts no)
+)

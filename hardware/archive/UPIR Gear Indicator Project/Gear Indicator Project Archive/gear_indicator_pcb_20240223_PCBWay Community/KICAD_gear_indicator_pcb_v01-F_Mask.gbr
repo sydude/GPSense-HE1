@@ -1,0 +1,88 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*%
+%TF.CreationDate,2024-02-23T08:46:47+01:00*%
+%TF.ProjectId,KICAD_gear_indicator_pcb_v01,4b494341-445f-4676-9561-725f696e6469,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.5)) date 2024-02-23 08:46:47*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%ADD10C,1.700000*%
+%ADD11RotRect,1.700000X1.700000X248.000000*%
+%ADD12HorizOval,1.700000X0.000000X0.000000X0.000000X0.000000X0*%
+%ADD13RotRect,1.700000X1.700000X292.000000*%
+%ADD14HorizOval,1.700000X0.000000X0.000000X0.000000X0.000000X0*%
+%ADD15RotRect,1.700000X1.700000X68.000000*%
+%ADD16HorizOval,1.700000X0.000000X0.000000X0.000000X0.000000X0*%
+%ADD17HorizOval,1.700000X0.000000X0.000000X0.000000X0.000000X0*%
+%ADD18RotRect,1.700000X1.700000X112.000000*%
+%ADD19R,1.700000X1.700000*%
+%ADD20O,1.700000X1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,HALL1*%
+X-8408861Y-27250000D03*
+D11*
+X-10763908Y-26298499D03*
+D12*
+X-13118955Y-25346999D03*
+%TD*%
+D10*
+%TO.C,HALL2*%
+X13091139Y-25304119D03*
+D13*
+X10736092Y-26255620D03*
+D14*
+X8381045Y-27207120D03*
+%TD*%
+D10*
+%TO.C,HALL3*%
+X8250000Y27250000D03*
+D15*
+X10605047Y26298499D03*
+D16*
+X12960094Y25346999D03*
+%TD*%
+D17*
+%TO.C,HALL0*%
+X-12936714Y25304118D03*
+D18*
+X-10581667Y26255619D03*
+D17*
+X-8226620Y27207119D03*
+%TD*%
+D19*
+%TO.C,J1*%
+X-6350000Y32500000D03*
+D20*
+X-3810000Y32500000D03*
+X-1270000Y32500000D03*
+X1270000Y32500000D03*
+X3810000Y32500000D03*
+X6350000Y32500000D03*
+%TD*%
+M02*

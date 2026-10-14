@@ -1,0 +1,158 @@
+[2026-07-30 17:58:03,868][INFO]:  Importing File: /Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_pro
+[2026-07-30 17:58:03,874][INFO]:  Processing documents list
+[2026-07-30 17:58:03,874][INFO]:  Reading document: KICAD_gear_indicator_pcb_v01.kicad_pro
+[2026-07-30 17:58:03,874][INFO]:  Converting document: '/Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_pro'
+[2026-07-30 17:58:10,709][INFO]:  Finished processing document: '/Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_pro'
+[2026-07-30 17:58:10,709][INFO]:  Reading document: KICAD_gear_indicator_pcb_v01.kicad_pcb
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'covering' of parentNode 'setup' at line: 87
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'plugging' of parentNode 'setup' at line: 91
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'capping' of parentNode 'setup' at line: 95
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'filling' of parentNode 'setup' at line: 96
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 192
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 199
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 619
+[2026-07-30 17:58:10,713][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 626
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 1043
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1050
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 1338
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1345
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 1578
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1585
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 1821
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 1828
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'units' of parentNode 'footprint' at line: 2248
+[2026-07-30 17:58:10,714][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'duplicate_pad_numbers_are_jumpers' of parentNode 'footprint' at line: 2255
+[2026-07-30 17:58:10,716][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'group' of parentNode 'kicad_pcb' at line: 7614
+[2026-07-30 17:58:10,716][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'group' of parentNode 'kicad_pcb' at line: 7684
+[2026-07-30 17:58:10,716][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'group' of parentNode 'kicad_pcb' at line: 7691
+[2026-07-30 17:58:10,716][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'group' of parentNode 'kicad_pcb' at line: 7731
+[2026-07-30 17:58:10,716][WARN]:  KiCad PCB Board Reader: Unsupported keyword: 'group' of parentNode 'kicad_pcb' at line: 7801
+[2026-07-30 17:58:10,717][INFO]:  Converting document: '/Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_pcb'
+[2026-07-30 17:58:10,732][INFO]:  KiCad Pcb Converter: Attribute name 'Description' from line 1028 need to be changed to 'DESCRIPTION'
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6204' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6215' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6226' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6237' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6248' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6259' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6270' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6281' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6302' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6313' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6324' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6335' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6346' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,744][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6357' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6368' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6379' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6400' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6411' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6422' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6433' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6444' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6455' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6466' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6477' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6488' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6499' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6510' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6521' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6532' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6543' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6554' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6565' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6576' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6587' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6618' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6629' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6640' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6651' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6662' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6673' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6684' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6695' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6706' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6717' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6728' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6739' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6750' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6761' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6772' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6783' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6794' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6805' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6816' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6827' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6838' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6849' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6870' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6881' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6892' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6903' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6914' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6925' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6936' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6947' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6968' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6979' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :6990' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :7001' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :7012' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :7023' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :7034' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,745][ERROR]: KiCad Pcb Converter: KiCad 'curve' element at line :7045' translation is is not supported and will be skipped.
+[2026-07-30 17:58:10,884][INFO]:  Finished processing document: '/Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_pcb'
+[2026-07-30 17:58:10,884][INFO]:  Reading document: KICAD_gear_indicator_pcb_v01.kicad_sch
+[2026-07-30 17:58:10,884][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 15
+[2026-07-30 17:58:10,884][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 16
+[2026-07-30 17:58:10,884][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 204
+[2026-07-30 17:58:10,884][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'duplicate_pin_numbers_are_jumpers' of parentNode 'symbol' at line: 205
+[2026-07-30 17:58:10,884][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1111
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1115
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1196
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1200
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1293
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1297
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1378
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1382
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1463
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1467
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1548
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1552
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'body_style' of parentNode 'symbol' at line: 1633
+[2026-07-30 17:58:10,885][WARN]:  KiCad Schematic Reader: Unsupported keyword: 'in_pos_files' of parentNode 'symbol' at line: 1637
+[2026-07-30 17:58:10,885][INFO]:  Converting document: '/Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_sch'
+[2026-07-30 17:58:10,885][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Connector_Generic:Conn_01x03'
+[2026-07-30 17:58:10,886][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'Conn_01x03'
+[2026-07-30 17:58:10,888][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'CONN_01X03' finished successfully
+[2026-07-30 17:58:10,888][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Connector_Generic:Conn_01x03' finished successfully
+[2026-07-30 17:58:10,888][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Connector_Generic:Conn_01x08'
+[2026-07-30 17:58:10,888][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'Conn_01x08'
+[2026-07-30 17:58:10,888][INFO]:  KiCad Symbol Converter: Generating DeviceSet: 'CONN_01X08' finished successfully
+[2026-07-30 17:58:10,888][INFO]:  KiCad Symbol Converter: Converting KiCad symbol: 'Connector_Generic:Conn_01x08' finished successfully
+[2026-07-30 17:58:10,888][INFO]:  Converted 2 schematic symbols
+[2026-07-30 17:58:10,896][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1141 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,896][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1223 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,896][INFO]:  KiCad Schematic Converter: Attribute name 'Description' from line 1245 need to be changed to 'DESCRIPTION'
+[2026-07-30 17:58:10,897][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1323 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,897][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1408 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,898][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1493 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,898][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1578 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,898][INFO]:  KiCad Schematic Converter: Attribute name 'Footprint' from line 1663 need to be changed to 'FOOTPRINT'
+[2026-07-30 17:58:10,898][INFO]:  Finished processing document: '/Users/saryeh/Library/CloudStorage/Dropbox/Cars - Bronco, BMW M3 etc - Dropbox/1992 Bronco/2025 T-56 Transmission Shifter and Wilwood Pedal Project/UPIR Gear Indicator Project/Gear Indicator PCBWAY - Modified for 6 Speed/KICAD_gear_indicator_pcb_v01.kicad_sch'
+[2026-07-30 17:58:10,898][INFO]:  Processing documents list finished
+[2026-07-30 17:58:10,899][INFO]:  KiCad Importer Post Processor: Postprocessing imported design
+[2026-07-30 17:58:10,899][INFO]:  KiCad Importer Post Processor: Processing board components
+[2026-07-30 17:58:10,899][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X03_P2.54MM_VERTICAL' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector_Generic' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X03_P2.54MM_VERTICAL'
+[2026-07-30 17:58:10,899][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X03_P2.54MM_VERTICAL_V1' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector_Generic' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X03_P2.54MM_VERTICAL_V1'
+[2026-07-30 17:58:10,899][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X08_P2.54MM_VERTICAL' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector_Generic' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X08_P2.54MM_VERTICAL'
+[2026-07-30 17:58:10,899][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X03_P2.54MM_VERTICAL_V2' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector_Generic' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X03_P2.54MM_VERTICAL_V2'
+[2026-07-30 17:58:10,900][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X03_P2.54MM_VERTICAL_V3' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector_Generic' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X03_P2.54MM_VERTICAL_V3'
+[2026-07-30 17:58:10,900][INFO]:  KiCad Importer Post Processor: Package 'PINHEADER_1X03_P2.54MM_VERTICAL_V4' was moved from library 'Connector_PinHeader_2.54mm' to 'Connector_Generic' as 'CONNECTOR_PINHEADER_2.54MM_PINHEADER_1X03_P2.54MM_VERTICAL_V4'
+[2026-07-30 17:58:10,900][INFO]:  KiCad Importer Post Processor: Processing board components finished
+[2026-07-30 17:58:10,900][INFO]:  KiCad Importer Post Processor: Processing board nets
+[2026-07-30 17:58:10,900][INFO]:  KiCad Importer Post Processor: Processing board nets finished
+[2026-07-30 17:58:10,900][INFO]:  KiCad Importer Post Processor: Processing net classes
+[2026-07-30 17:58:10,901][INFO]:  KiCad Importer Post Processor: Processing net classes finished
+[2026-07-30 17:58:10,901][INFO]:  KiCad Importer Post Processor: Postprocessing imported design finished
+[2026-07-30 17:58:10,933][INFO]:  Import finished

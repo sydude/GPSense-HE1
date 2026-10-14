@@ -1,0 +1,64 @@
+(footprint "TP10SQ"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "TEST PAD")
+	(property "Reference" "REF**"
+		(at -0.5001 -0.5499 0)
+		(layer "F.SilkS")
+		(uuid "b570f37d-d955-4840-b460-7cb58e089880")
+		(effects
+			(font
+				(size 1.1684 1.1684)
+				(thickness 0.1016)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "TP10SQ"
+		(at -0.508 0.635 0)
+		(layer "F.Fab")
+		(uuid "f8080784-eb19-47e2-99f4-6c407a43ebdc")
+		(effects
+			(font
+				(size 0.023368 0.023368)
+				(thickness 0.002032)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "312c270f-b6a3-4f18-8a9d-54290d0f1c86")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da0204e8-00dd-4729-81c0-77166415830f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "TP" smd rect
+		(at 0 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "5f95eddb-a14d-4cac-a03a-a37917bc369e")
+	)
+	(embedded_fonts no)
+)

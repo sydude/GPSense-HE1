@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Gear_Position_Sensor_HE1_v2-eagle-import") (type "KiCad") (uri "${KIPRJMOD}/Gear_Position_Sensor_HE1_v2-eagle-import.kicad_sym") (options "") (descr ""))
+	(lib (name "lcsc_imported") (type "KiCad") (uri "${KIPRJMOD}/libs/lcsc/symbols/lcsc_imported.kicad_sym") (options "") (descr "LCSC Manager imported components"))
+)
